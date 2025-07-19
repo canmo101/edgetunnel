@@ -1,4 +1,4 @@
 name = "v20250718"
-main = "_worker.js"
+main = "small-paper-91e8"
 compatibility_date = "2025-07-18"
 keep_vars = true
